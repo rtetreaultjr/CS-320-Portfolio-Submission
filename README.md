@@ -1,1 +1,4 @@
 # CS-320-Portfolio-Submission
+Testing throughout the development process ensures that the code created will be functional and secure. While it might require a steady pace, testing as you go ensures that mistakes are caught and fixed early. This prevents errors making it to the end of the development process, where by then it would cost much more in time and resources.
+When you are designing software, it is important to know what your client is looking for. This way, as you are designing, you know what to set tests for to ensure as many requirements are met as possible.
+Once requirements are set, I can start to put together a uml diagram that outlines what the software needs to accomplish for the client. Next, I code, establishing tests as I go to ensure that I am covering all the requirements I set from the client. This way, by the time it gets to functional testing, I know the individual components work as intended.
